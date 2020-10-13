@@ -1,0 +1,16 @@
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.exe
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.deps.json
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.runtimeconfig.json
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.runtimeconfig.dev.json
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.dll
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ref\ipscan.dll
+C:\AmaraCode\src\ipscan\bin\Debug\net5.0\ipscan.pdb
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.csprojAssemblyReference.cache
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.GeneratedMSBuildEditorConfig.editorconfig
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.AssemblyInfoInputs.cache
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.AssemblyInfo.cs
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.csproj.CoreCompileInputs.cache
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.dll
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ref\ipscan.dll
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.pdb
+C:\AmaraCode\src\ipscan\obj\Debug\net5.0\ipscan.genruntimeconfig.cache
